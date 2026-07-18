@@ -7,3 +7,4 @@ area = largo * ancho
 
 print('EL ara es de:',area)
 
+

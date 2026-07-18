@@ -7,3 +7,14 @@ total = precio + iva
 
 print('iva:', iva)
 print ('total:', total)
+
+
+precio = float(input('Ingrese el precio:'))
+
+iva = precio * 0.15 
+iva = precio + iva
+total = precio + iva 
+
+print('iva:', iva )
+print('Totl:',total )
+
